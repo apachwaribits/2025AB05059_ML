@@ -6,6 +6,4 @@ matplotlib
 seaborn
 xgboost
 ucimlrepo
-pickle
-matplotlib.pyplot 
-sklearn.metrics
+scikit-learn
